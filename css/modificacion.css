@@ -1,0 +1,74 @@
+.imagen_portada{
+    width: 99%;
+    height: 300px;
+    background-image: url("https://preview.lsvr.sk/pressville/wp-content/uploads/sites/2/2017/05/hero-1.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.imagen_portada h1{
+    color: #fff;
+    font-family: 'Lora',Arial,sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+}
+.imagen_portada img{
+    width: 100px;
+    height: 100px;
+}
+.imagen_portada #logo{
+    text-align: center;
+}
+.wrap-header-mobile .row{
+    position: static;
+    top: 30px;
+}
+#area-login{
+    padding: 15px;
+    position: fixed;
+    width: 400px;
+    z-index: 999;
+    border: 1px solid #cdcdcd;
+    border-radius: 10px;
+    background-color: #17b978;
+    top: 150px;
+}
+#area-login input{
+    border-radius: 10px;
+}
+.logo_youtube_video{
+    position: relative;
+    top: 130px;
+     left: 70px;
+}
+
+@media screen and (min-width: 544px){
+    
+}
+
+@media screen and (min-width: 768px){
+    .imagen_portada{
+        height: 400px;
+    }
+    .imagen_portada h1{
+        font-size: 1.5em;
+    }
+    .imagen_portada #logo{
+        text-align: right;
+    }
+    .imagen_portada .row{
+        position: relative;
+        top: 40px;
+    }
+    
+}
+@media screen and (min-width: 992px){
+    #area-login{
+        top: 20px;
+        position: absolute;
+        left: 10px;
+    }
+}
+@media screen and (min-width: 1200px){
+    
+}
