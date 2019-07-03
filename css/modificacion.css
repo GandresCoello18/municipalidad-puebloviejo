@@ -26,7 +26,7 @@
 #area-login{
     padding: 15px;
     position: fixed;
-    width: 400px;
+    width: 300px;
     z-index: 999;
     border: 1px solid #cdcdcd;
     border-radius: 10px;
@@ -42,7 +42,42 @@
      left: 70px;
 }
 #reporte{
-    width: 450px;
+    width: 320px;
+}
+.cantidad_categoria{
+    font-weight: bold;
+}
+#insertar_comentario{
+    padding: 10px;
+    position: relative;
+    bottom: 10px;
+}
+.cuadro_comentario{
+    background-color: rgb(245,245,245);
+    border-radius: 10px;
+}
+#insertar_comentario article:before{
+    content: '';
+    position: absolute;
+    background-color: transparent;
+    border-top: 15px solid transparent;
+    border-right: 15px solid #17b978;
+    border-left: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    left: -20px;
+    top: 10px;
+}
+#insertar_comentario article h4{
+    font-weight: bold;
+
+}
+#insertar_comentario img{
+    border-radius: 50%;
+    position: relative;
+    top: 10px;
+    width: 70px;
+    height: 70px;
+    border: 1px solid #cdcdcd;
 }
 
 @media screen and (min-width: 544px){
@@ -63,7 +98,12 @@
         position: relative;
         top: 40px;
     }
-    
+    #area-login{
+        width: 400px;
+    }
+    #reporte{
+        width: 400px;
+}
 }
 @media screen and (min-width: 992px){
     #area-login{

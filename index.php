@@ -162,19 +162,19 @@
 											<!-- Item post -->	
 											<div class="m-b-30">
 												<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
-													<img src="images/post-14.jpg" alt="IMG">
+													<img src="images/proyect-8.jpg" alt="IMG">
 												</a>
 
 												<div class="p-t-20">
 													<h5 class="p-b-5">
 														<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-															You wish lorem ipsum dolor sit amet consectetur 
+															Remodelacion del parque centlal en san juan 
 														</a>
 													</h5>
 
 													<span class="cl8">
 														<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-															Hotels
+															Turismo
 														</a>
 
 														<span class="f1-s-3 m-rl-3">
@@ -193,19 +193,19 @@
 											<!-- Item post -->	
 											<div class="flex-wr-sb-s m-b-30">
 												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
-													<img src="images/post-15.jpg" alt="IMG">
+													<img src="images/proyect-6.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
 														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
-															Donec metus orci, malesuada et lectus vitae
+															Asfaltado de calles 5 de junio
 														</a>
 													</h5>
 
 													<span class="cl8">
 														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
-															Beachs
+															Obras
 														</a>
 
 														<span class="f1-s-3 m-rl-3">
@@ -222,19 +222,19 @@
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
 												<a href="blog-detail-02" class="size-w-1 wrap-pic-w hov1 trans-03">
-													<img src="images/post-16.jpg" alt="IMG">
+													<img src="images/proyect-7.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
 														<a href="blog-detail-02" class="f1-s-5 cl3 hov-cl10 trans-03">
-															Donec metus orci, malesuada et lectus vitae
+															Relleno de baches en puerto pechiche.
 														</a>
 													</h5>
 
 													<span class="cl8">
 														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
-															Flight
+															Obras
 														</a>
 
 														<span class="f1-s-3 m-rl-3">
@@ -251,13 +251,13 @@
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
 												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
-													<img src="images/post-17.jpg" alt="IMG">
+													<img src="images/proyect-4.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
 														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
-															Beredas del centro de pechiche
+															Acantarillado de agua en barrio norte 
 														</a>
 													</h5>
 
