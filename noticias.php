@@ -17,20 +17,20 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-06.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/noticia-1.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-											You wish lorem ipsum dolor sit amet consectetur 
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
+											Alcalde visita las viviendas afectadas por las fuertes lluvias 
 										</a>
 									</h5>
 
 									<span class="cl8">
 										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											by John Alvarado
+											ALC: Marcos Gonzales
 										</a>
 
 										<span class="f1-s-3 m-rl-3">
@@ -48,20 +48,20 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
 									<img src="images/entertaiment-07.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-											You wish lorem ipsum dolor sit amet consectetur 
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
+											Artistas importantes seran invitados para carnaval 
 										</a>
 									</h5>
 
 									<span class="cl8">
 										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											by John Alvarado
+											ALC: Marcos Gonzales
 										</a>
 
 										<span class="f1-s-3 m-rl-3">
@@ -79,20 +79,20 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-08.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/noticia-2.png" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-											You wish lorem ipsum dolor sit amet consectetur 
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
+											El personal del municipio toma fuertes medidas contra las drogas 
 										</a>
 									</h5>
 
 									<span class="cl8">
 										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											by John Alvarado
+											ALC: Marcos Gonzales
 										</a>
 
 										<span class="f1-s-3 m-rl-3">
@@ -110,20 +110,20 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-09.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/noticia-3.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
-											You wish lorem ipsum dolor sit amet consectetur 
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
+											Ciudadanos protestan por no contar con los servicios basicos 
 										</a>
 									</h5>
 
 									<span class="cl8">
 										<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
-											by John Alvarado
+											ALC: Marcos Gonzales
 										</a>
 
 										<span class="f1-s-3 m-rl-3">

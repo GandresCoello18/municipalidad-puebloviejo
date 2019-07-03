@@ -41,6 +41,9 @@
     top: 130px;
      left: 70px;
 }
+#reporte{
+    width: 450px;
+}
 
 @media screen and (min-width: 544px){
     
@@ -67,6 +70,9 @@
         top: 20px;
         position: absolute;
         left: 10px;
+    }
+    #reporte{
+        width: 600px;
     }
 }
 @media screen and (min-width: 1200px){

@@ -8,7 +8,7 @@
 			<div class="row m-rl--1">
 				<div class="col-md-6 p-rl-1 p-b-2">
 					<div class="bg-img1 size-a-3 how1 pos-relative" style="background-image: url(images/post-01.jpg);">
-						<a href="blog-detail-01.html" class="dis-block how1-child1 trans-03"></a>
+						<a href="blog-detail-01" class="dis-block how1-child1 trans-03"></a>
 
 						<div class="flex-col-e-s s-full p-rl-25 p-tb-20">
 							<a href="#" class="dis-block how1-child2 f1-s-2 cl0 bo-all-1 bocl0 hov-btn1 trans-03 p-rl-5 p-t-2">
@@ -16,7 +16,7 @@
 							</a>
 
 							<h3 class="how1-child2 m-t-14 m-b-10">
-								<a href="blog-detail-01.html" class="how-txt1 size-a-6 f1-l-1 cl0 hov-cl10 trans-03">
+								<a href="blog-detail-01" class="how-txt1 size-a-6 f1-l-1 cl0 hov-cl10 trans-03">
 									Docente de informatica crea sistema junto con sus estudiantes
 								</a>
 							</h3>
@@ -42,7 +42,7 @@
 					<div class="row m-rl--1">
 						<div class="col-12 p-rl-1 p-b-2">
 							<div class="bg-img1 size-a-4 how1 pos-relative" style="background-image: url(images/post-02.jpg);">
-								<a href="blog-detail-01.html" class="dis-block how1-child1 trans-03"></a>
+								<a href="blog-detail-02" class="dis-block how1-child1 trans-03"></a>
 
 								<div class="flex-col-e-s s-full p-rl-25 p-tb-24">
 									<a href="#" class="dis-block how1-child2 f1-s-2 cl0 bo-all-1 bocl0 hov-btn1 trans-03 p-rl-5 p-t-2">
@@ -50,7 +50,7 @@
 									</a>
 
 									<h3 class="how1-child2 m-t-14">
-										<a href="blog-detail-01.html" class="how-txt1 size-a-7 f1-l-2 cl0 hov-cl10 trans-03">
+										<a href="blog-detail-02" class="how-txt1 size-a-7 f1-l-2 cl0 hov-cl10 trans-03">
 											San Juan cumple 100 años de parroquializacion 
 										</a>
 									</h3>
@@ -60,7 +60,7 @@
 
 						<div class="col-sm-6 p-rl-1 p-b-2">
 							<div class="bg-img1 size-a-5 how1 pos-relative" style="background-image: url(images/post-03.jpg);">
-								<a href="blog-detail-01.html" class="dis-block how1-child1 trans-03"></a>
+								<a href="blog-detail-02" class="dis-block how1-child1 trans-03"></a>
 
 								<div class="flex-col-e-s s-full p-rl-25 p-tb-20">
 									<a href="#" class="dis-block how1-child2 f1-s-2 cl0 bo-all-1 bocl0 hov-btn1 trans-03 p-rl-5 p-t-2">
@@ -68,7 +68,7 @@
 									</a>
 
 									<h3 class="how1-child2 m-t-14">
-										<a href="blog-detail-01.html" class="how-txt1 size-h-1 f1-m-1 cl0 hov-cl10 trans-03">
+										<a href="blog-detail-02" class="how-txt1 size-h-1 f1-m-1 cl0 hov-cl10 trans-03">
 											Fiestas de carnaval se llevan a cabo en Pueblo Viejo
 										</a>
 									</h3>
@@ -78,7 +78,7 @@
 
 						<div class="col-sm-6 p-rl-1 p-b-2">
 							<div class="bg-img1 size-a-5 how1 pos-relative" style="background-image: url(images/post-04.jpg);">
-								<a href="blog-detail-01.html" class="dis-block how1-child1 trans-03"></a>
+								<a href="blog-detail-01" class="dis-block how1-child1 trans-03"></a>
 
 								<div class="flex-col-e-s s-full p-rl-25 p-tb-20">
 									<a href="#" class="dis-block how1-child2 f1-s-2 cl0 bo-all-1 bocl0 hov-btn1 trans-03 p-rl-5 p-t-2">
@@ -86,7 +86,7 @@
 									</a>
 
 									<h3 class="how1-child2 m-t-14">
-										<a href="blog-detail-01.html" class="how-txt1 size-h-1 f1-m-1 cl0 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="how-txt1 size-h-1 f1-m-1 cl0 hov-cl10 trans-03">
 											Carrera de motos se llevara a cabo en San Juan
 										</a>
 									</h3>
@@ -146,7 +146,7 @@
 								</ul>
 
 								<!--  -->
-								<a href="category-01.html" class="tab01-link f1-s-1 cl9 hov-cl10 trans-03">
+								<a href="category-01" class="tab01-link f1-s-1 cl9 hov-cl10 trans-03">
 									Ver Todos
 									<i class="fs-12 m-l-5 fa fa-caret-right"></i>
 								</a>
@@ -161,7 +161,7 @@
 										<div class="col-sm-6 p-r-25 p-r-15-sr991">
 											<!-- Item post -->	
 											<div class="m-b-30">
-												<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
 													<img src="images/post-14.jpg" alt="IMG">
 												</a>
 
@@ -192,13 +192,13 @@
 										<div class="col-sm-6 p-r-25 p-r-15-sr991">
 											<!-- Item post -->	
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-15.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -221,13 +221,13 @@
 											
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-02" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-16.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-02" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -250,13 +250,13 @@
 
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-17.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Beredas del centro de pechiche
 														</a>
 													</h5>
@@ -286,13 +286,13 @@
 										<div class="col-sm-6 p-r-25 p-r-15-sr991">
 											<!-- Item post -->	
 											<div class="m-b-30">
-												<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
 													<img src="images/post-15.jpg" alt="IMG">
 												</a>
 
 												<div class="p-t-20">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 															Remodelacion del parque central de San Juan 
 														</a>
 													</h5>
@@ -317,13 +317,13 @@
 										<div class="col-sm-6 p-r-25 p-r-15-sr991">
 											<!-- Item post -->	
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-02" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-16.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-02" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Beredas del centro de pechiche
 														</a>
 													</h5>
@@ -346,13 +346,13 @@
 											
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-02" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-17.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-02" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -375,13 +375,13 @@
 
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-18.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -411,13 +411,13 @@
 										<div class="col-sm-6 p-r-25 p-r-15-sr991">
 											<!-- Item post -->	
 											<div class="m-b-30">
-												<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
 													<img src="images/post-16.jpg" alt="IMG">
 												</a>
 
 												<div class="p-t-20">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 															You wish lorem ipsum dolor sit amet consectetur 
 														</a>
 													</h5>
@@ -442,13 +442,13 @@
 										<div class="col-sm-6 p-r-25 p-r-15-sr991">
 											<!-- Item post -->	
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-02" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-17.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-02" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -471,13 +471,13 @@
 											
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-18.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -500,13 +500,13 @@
 
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-14.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -536,13 +536,13 @@
 										<div class="col-sm-6 p-r-25 p-r-15-sr991">
 											<!-- Item post -->	
 											<div class="m-b-30">
-												<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
 													<img src="images/post-17.jpg" alt="IMG">
 												</a>
 
 												<div class="p-t-20">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 															You wish lorem ipsum dolor sit amet consectetur 
 														</a>
 													</h5>
@@ -567,13 +567,13 @@
 										<div class="col-sm-6 p-r-25 p-r-15-sr991">
 											<!-- Item post -->	
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-02" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-18.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-02" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -596,13 +596,13 @@
 											
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-14.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -625,13 +625,13 @@
 
 											<!-- Item post -->
 											<div class="flex-wr-sb-s m-b-30">
-												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+												<a href="blog-detail-01" class="size-w-1 wrap-pic-w hov1 trans-03">
 													<img src="images/post-15.jpg" alt="IMG">
 												</a>
 
 												<div class="size-w-2">
 													<h5 class="p-b-5">
-														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+														<a href="blog-detail-01" class="f1-s-5 cl3 hov-cl10 trans-03">
 															Donec metus orci, malesuada et lectus vitae
 														</a>
 													</h5>
@@ -740,13 +740,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
 									<img src="images/latest-01.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -771,13 +771,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+								<a href="blog-detail-02" class="wrap-pic-w hov1 trans-03">
 									<img src="images/latest-02.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-02" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -802,13 +802,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+								<a href="blog-detail-02" class="wrap-pic-w hov1 trans-03">
 									<img src="images/latest-03.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-02" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -833,13 +833,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
 									<img src="images/latest-04.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -864,13 +864,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
 									<img src="images/latest-05.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -895,13 +895,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+								<a href="blog-detail-02" class="wrap-pic-w hov1 trans-03">
 									<img src="images/latest-06.jpg" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-02" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
