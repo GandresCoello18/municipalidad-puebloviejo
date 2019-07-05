@@ -25,6 +25,6 @@
 	var dir = window.document.URL;
 	var tit = window.document.title;
 	document.querySelector('.facebook').href += dir;
-	document.querySelector('.twitter').href = `https://twitter.com/intent/tweet?text=${tit}&url=${dir}&hashtags=Social_Students`;
+	document.querySelector('.twitter').href = `https://twitter.com/intent/tweet?text=${tit}&url=${dir}&hashtags=Municipalidad-de-puebloviejo`;
 	document.querySelector('.whatsapp').href = `https://api.whatsapp.com/send?text=Me interesa el tema ${tit} tu tambien deberias leerlo ${dir}`;
 </script>
