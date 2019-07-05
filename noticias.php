@@ -18,7 +18,7 @@
 							<!-- Item latest -->	
 							<div class="m-b-45">
 								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
-									<img src="images/noticia-1.jpg" alt="IMG">
+									<img src="images/noticia-1.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
@@ -49,7 +49,7 @@
 							<!-- Item latest -->	
 							<div class="m-b-45">
 								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-07.jpg" alt="IMG">
+									<img src="images/entertaiment-07.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
@@ -80,7 +80,7 @@
 							<!-- Item latest -->	
 							<div class="m-b-45">
 								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
-									<img src="images/noticia-2.png" alt="IMG">
+									<img src="images/noticia-2.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
@@ -111,7 +111,7 @@
 							<!-- Item latest -->	
 							<div class="m-b-45">
 								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
-									<img src="images/noticia-3.jpg" alt="IMG">
+									<img src="images/noticia-3.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
@@ -142,12 +142,12 @@
 							<!-- Item latest -->	
 							<div class="m-b-45">
 								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/latest-05.jpg" alt="IMG">
+									<img src="images/latest-05.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -172,13 +172,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/latest-06.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/latest-06.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -203,13 +203,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-10.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-10.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -234,13 +234,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-11.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-11.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -265,13 +265,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-12.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-12.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -296,13 +296,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-13.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-13.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -327,13 +327,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-14.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-14.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -358,13 +358,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item latest -->	
 							<div class="m-b-45">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-15.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-15.webp" alt="IMG">
 								</a>
 
 								<div class="p-t-16">
 									<h5 class="p-b-5">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>

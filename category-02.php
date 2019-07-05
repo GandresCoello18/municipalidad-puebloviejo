@@ -20,12 +20,12 @@
 							<!-- Item -->
 							<div class="p-b-53">
 								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-06.jpg" alt="IMG">
+									<img src="images/entertaiment-06.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -57,13 +57,13 @@
 
 							<!-- Item -->
 							<div class="p-b-53">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-17.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-17.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Curabitur lacinia nisl eget aliquet porttitor
 										</a>
 									</h5>
@@ -86,7 +86,7 @@
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -95,13 +95,13 @@
 
 							<!-- Item -->
 							<div class="p-b-53">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-18.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-18.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Vestibulum euismod lorem sed porttitor bibendum
 										</a>
 									</h5>
@@ -124,7 +124,7 @@
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -135,13 +135,13 @@
 						<div class="col-sm-6 p-r-25 p-r-15-sr991">
 							<!-- Item -->
 							<div class="p-b-53">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-19.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-19.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Dolor sit amet consectetur adipiscing elit
 										</a>
 									</h5>
@@ -164,7 +164,7 @@
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -173,13 +173,13 @@
 
 							<!-- Item -->
 							<div class="p-b-53">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-20.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-20.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Leo enim interdum nisl non mollis lacus est nec 
 										</a>
 									</h5>
@@ -202,7 +202,7 @@
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -211,13 +211,13 @@
 
 							<!-- Item -->
 							<div class="p-b-53">
-								<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-									<img src="images/entertaiment-21.jpg" alt="IMG">
+								<a href="blog-detail-01" class="wrap-pic-w hov1 trans-03">
+									<img src="images/entertaiment-21.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Vestibulum justo nunc pulvinar nec mi eget
 										</a>
 									</h5>
@@ -240,7 +240,7 @@
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -250,10 +250,7 @@
 					</div>
 
 					<!-- Pagination -->
-					<div class="flex-wr-c-c m-rl--7 p-t-28">
-						<a href="#" class="flex-c-c pagi-item hov-btn1 trans-03 m-all-7 pagi-active">1</a>
-						<a href="#" class="flex-c-c pagi-item hov-btn1 trans-03 m-all-7">2</a>
-					</div>
+					<?php include_once("includes/paginacion.php");  ?>
 				</div>
 
 				<div class="col-md-10 col-lg-4 p-b-80">

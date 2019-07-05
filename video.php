@@ -33,7 +33,7 @@ video{
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											You wish lorem ipsum dolor sit amet consectetur 
 										</a>
 									</h5>
@@ -56,7 +56,7 @@ video{
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -69,12 +69,12 @@ video{
                                     <button class="pos-relative fs-72 cl0 hov-cl10 trans-03 logo_youtube_video">
 										<span class="fab fa-youtube"></span>
 									</button>
-									<img src="images/entertaiment-17.jpg" alt="IMG">
+									<img src="images/entertaiment-17.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Curabitur lacinia nisl eget aliquet porttitor
 										</a>
 									</h5>
@@ -97,7 +97,7 @@ video{
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -110,12 +110,12 @@ video{
 									<button class="pos-relative fs-72 cl0 hov-cl10 trans-03 logo_youtube_video">
 										<span class="fab fa-youtube"></span>
 									</button>
-									<img src="images/entertaiment-18.jpg" alt="IMG">
+									<img src="images/entertaiment-18.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Vestibulum euismod lorem sed porttitor bibendum
 										</a>
 									</h5>
@@ -138,7 +138,7 @@ video{
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -153,12 +153,12 @@ video{
 									<button class="pos-relative fs-72 cl0 hov-cl10 trans-03 logo_youtube_video">
 										<span class="fab fa-youtube"></span>
 									</button>
-									<img src="images/entertaiment-19.jpg" alt="IMG">
+									<img src="images/entertaiment-19.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Dolor sit amet consectetur adipiscing elit
 										</a>
 									</h5>
@@ -181,7 +181,7 @@ video{
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -194,12 +194,12 @@ video{
 									<button class="pos-relative fs-72 cl0 hov-cl10 trans-03 logo_youtube_video">
 										<span class="fab fa-youtube"></span>
 									</button>
-									<img src="images/entertaiment-20.jpg" alt="IMG">
+									<img src="images/entertaiment-20.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Leo enim interdum nisl non mollis lacus est nec 
 										</a>
 									</h5>
@@ -222,7 +222,7 @@ video{
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>
@@ -235,12 +235,12 @@ video{
 									<button class="pos-relative fs-72 cl0 hov-cl10 trans-03 logo_youtube_video">
 										<span class="fab fa-youtube"></span>
 									</button>
-									<img src="images/entertaiment-21.jpg" alt="IMG">
+									<img src="images/entertaiment-21.webp" alt="IMG">
 								</a>
 
 								<div class="flex-col-s-c p-t-16">
 									<h5 class="p-b-5 txt-center">
-										<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+										<a href="blog-detail-01" class="f1-m-3 cl2 hov-cl10 trans-03">
 											Vestibulum justo nunc pulvinar nec mi eget
 										</a>
 									</h5>
@@ -263,7 +263,7 @@ video{
 										Curabitur volutpat bibendum molestie. Vestibulum ornare gravida semper. Aliquam a dui suscipit, fringilla metus id, maximus leo.
 									</p>
 
-									<a href="blog-detail-01.html" class="f1-s-1 cl9 hov-cl10 trans-03">
+									<a href="blog-detail-01" class="f1-s-1 cl9 hov-cl10 trans-03">
 										Read More
 										<i class="m-l-2 fa fa-long-arrow-alt-right"></i>
 									</a>

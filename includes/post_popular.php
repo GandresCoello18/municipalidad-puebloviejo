@@ -10,7 +10,7 @@
 							<ul class="p-t-35">
 								<li class="flex-wr-sb-s p-b-30">
 									<a href="#" class="size-w-10 wrap-pic-w hov1 trans-03">
-										<img src="images/popular-post-04.jpg" alt="IMG">
+										<img src="images/popular-post-04.webp" alt="IMG">
 									</a>
 
 									<div class="size-w-11">
@@ -38,7 +38,7 @@
 
 								<li class="flex-wr-sb-s p-b-30">
 									<a href="#" class="size-w-10 wrap-pic-w hov1 trans-03">
-										<img src="images/popular-post-05.jpg" alt="IMG">
+										<img src="images/popular-post-05.webp" alt="IMG">
 									</a>
 
 									<div class="size-w-11">
@@ -66,7 +66,7 @@
 
 								<li class="flex-wr-sb-s p-b-30">
 									<a href="#" class="size-w-10 wrap-pic-w hov1 trans-03">
-										<img src="images/popular-post-06.jpg" alt="IMG">
+										<img src="images/popular-post-06.webp" alt="IMG">
 									</a>
 
 									<div class="size-w-11">
